@@ -11,7 +11,9 @@
   "vpmDependencies": {},
   "legacyFolders": {
   },
-  "legacyFiles": {},
+  "legacyFiles": {
+    "Assets\\AwtterMerger": ""
+  },
   "hideInEditor": false,
   "license": "MIT",
   "unity": "2022.3",
