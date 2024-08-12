@@ -1,0 +1,6 @@
+This plugin was created for ShadeDoes3d and use on his avatars
+Use anywhere else is considered theft. 
+
+It's also considered theft if you decompile or reverse engineer this merger. 
+
+This project uses code from https://booth.pm/en/items/2207020 VRCAvatars3Tools

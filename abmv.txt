@@ -1,0 +1,3 @@
+Creds = C:/MergerVerification.txt
+ImagePath = Assets/AwboiMerger/Images
+BackupPath = Assets/AwboiMerger/AwboiBackups
