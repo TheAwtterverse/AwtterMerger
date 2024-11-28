@@ -1,0 +1,2 @@
+ImagePath = Images
+BackupPath = Assets/AwtterBackups

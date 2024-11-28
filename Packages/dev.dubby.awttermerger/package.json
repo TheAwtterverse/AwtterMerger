@@ -1,0 +1,18 @@
+{
+  "name": "dev.dubby.awttermerger",
+  "displayName": "AwtterMerger",
+  "version": "4.0.4",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.7.4"
+  },
+  "author": {
+    "name": "Dubby",
+    "email": "dubstep.dragon@dubby.dev",
+    "url": "https://dubby.dev"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\!Documents\\Projects\\Personal\\VRChat_VPM_Packages\\AwtterMerger\\Packages\\dev.dubby.awttermerger"
+}
