@@ -1,0 +1,16 @@
+{
+    "name":"Awtter Merger",
+    "id":"dev.dubby.awttermerger",
+    "url":"https://dubstepdragon.github.io/awttermerger/index.json",
+    "author":{
+        "email":"dubstep.dragon@dubby.dev",
+        "name":"Dubby",
+        "url":"https://dubby.dev"
+    },
+    "description":"Awtter Merger used to merge Shade the bat's DLC onto his awtter",
+    "infoLink":{
+        "url":"https://github.com/dubstepdragon/awttermerger",
+        "text":"vpm Readme"
+    },
+    "bannerUrl":"banner.png"
+}
