@@ -7,6 +7,8 @@ jobs:
 
   # Validate Repository Configuration
   config:
+    environment:
+      name: release
     runs-on: ubuntu-latest
     outputs:
       config_package: ${{ steps.config_package.outputs.configPackage }}
@@ -26,6 +28,8 @@ jobs:
   # If the repository is not configured properly, this job will be skipped
   build:
     needs: config
+    environment:
+      name: release
     runs-on: ubuntu-latest
     permissions:
       contents: write
