@@ -13,5 +13,8 @@
         "text":"vpmReadme"
     },
     "bannerUrl":"banner.png"
+    "githubRepos":[
+        "dubstepdragon/AwtterMerger"
+    ],
 
 }
