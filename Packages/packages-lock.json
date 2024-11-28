@@ -208,12 +208,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "dev.dubby.awttermerger": {
-      "version": "file:dev.dubby.awttermerger",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
