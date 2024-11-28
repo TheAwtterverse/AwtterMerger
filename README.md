@@ -1,3 +1,8 @@
+
+https://dubstepdragon.github.io/AwtterMerger/
+
+https://dubstepdragon.github.io/AwtterMerger/index.json
+
 # VPM Package Template
 
 Starter for making Packages, including automation for building and publishing them.
