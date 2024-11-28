@@ -1,3 +1,0 @@
-Creds = C:/MergerVerification.txt
-ImagePath = Images
-BackupPath = Assets/AwtterBackups
