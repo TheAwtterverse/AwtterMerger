@@ -3,6 +3,7 @@ https://dubstepdragon.github.io/AwtterMerger/
 
 https://dubstepdragon.github.io/AwtterMerger/index.json
 
+<!--
 # VPM Package Template
 
 Starter for making Packages, including automation for building and publishing them.
@@ -78,4 +79,4 @@ This is a composite action combining a variety of existing GitHub Actions and so
 ### Build Repo Listing
 [build-listing.yml](.github/workflows/build-listing.yml)
 
-This is a composite action which builds a vpm-compatible [Repo Listing](https://vcc.docs.vrchat.com/vpm/repos) based on the releases you've created. In order to find all your releases and combine them into a listing, it checks out [another repository](https://github.com/vrchat-community/package-list-action) which has a [Nuke](https://nuke.build/) project which includes the VPM core lib to have access to its types and methods. This project will be expanded to include more functionality in the future - for now, the action just calls its `BuildRepoListing` target.
+This is a composite action which builds a vpm-compatible [Repo Listing](https://vcc.docs.vrchat.com/vpm/repos) based on the releases you've created. In order to find all your releases and combine them into a listing, it checks out [another repository](https://github.com/vrchat-community/package-list-action) which has a [Nuke](https://nuke.build/) project which includes the VPM core lib to have access to its types and methods. This project will be expanded to include more functionality in the future - for now, the action just calls its `BuildRepoListing` target. -->
