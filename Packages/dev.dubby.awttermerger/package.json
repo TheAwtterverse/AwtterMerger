@@ -1,11 +1,11 @@
 {
   "name": "dev.dubby.awttermerger",
   "displayName": "AwtterMerger",
-  "version": "4.0.5",
-  "description": "This plugin was created for ShadeDoes3d and use on his avatars\r\nUse anywhere else is considered theft. \r\n\r\nIt's also considered theft if you decompile or reverse engineer this merger. \r\n\r\nThis project uses code from https://booth.pm/en/items/2207020 VRCAvatars3Tools\r\n\r\nThe slimmed public version of this merger can be found here https://github.com/dubstepdragon/DLC_TOOL",
+  "version": "4.0.6",
+  "description": "Use this Plugin To merge AwtterSpace DLC onto The Awtter. This plugin was created for ShadeDoes3d and use on his avatars Use anywhere else is considered theft. It's also considered theft if you decompile or reverse engineer this merger. This project uses code from https://booth.pm/en/items/2207020 VRCAvatars3Tools The slimmed public version of this merger can be found here https://github.com/dubstepdragon/DLC_TOOL",
   "vrchatVersion": "2022.1.1",
   "vpmDependencies": {
-    "com.vrchat.avatars": "3.7.4"
+    "com.vrchat.avatars": "3.x.x"
   },
   "author": {
     "name": "Dubby",
