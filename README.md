@@ -1,7 +1,7 @@
+[Main VCC listing](https://asdk.awtterspace.com/)
 
-https://dubstepdragon.github.io/AwtterMerger/
 
-https://dubstepdragon.github.io/AwtterMerger/index.json
+[AwtterMerger Independent Download](https://theawtterverse.github.io/AwtterMerger/) (will be a VCC link to a VCC that contains ONLY the merger)
 
 <!--
 # VPM Package Template
