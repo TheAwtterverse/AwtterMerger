@@ -70,3 +70,23 @@ Assets/XR.meta
 UserSettings/
 
 *.gitconfig
+
+Assets/_PoiyomiShaders/
+
+Assets/_Shade the Bat/
+
+Assets/_PoiyomiShaders.meta
+
+Assets/_Shade the Bat.meta
+
+Assets/AwtterBackups.meta
+
+Assets/AwtterInstalledPackages.json
+
+Assets/AwtterInstalledPackages.json.meta
+
+Assets/csc.rsp
+
+Assets/csc.rsp.meta
+
+Thry/
