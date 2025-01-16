@@ -1,2 +1,3 @@
 ImagePath = Images
 BackupPath = Assets/AwtterBackups
+DLCPath = Assets/_Shade the Bat/DLCs and Props
