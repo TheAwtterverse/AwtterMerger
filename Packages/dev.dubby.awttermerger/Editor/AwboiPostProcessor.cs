@@ -13,12 +13,7 @@ namespace AWBOI.Editor
             if (AwboiMerger.Instance)
             {
                 AwboiMerger.Instance.SetDlcRefresh();
-                bool checkedForFileUpdate = EditorPrefs.GetBool("AwboiPostProcessor_CheckedForFileUpdates", false);
-                if (!checkedForFileUpdate)
-                {
-                    UpdateNamespaces();
-                    EditorPrefs.SetBool("AwboiPostProcessor_CheckedForFileUpdates", true);
-                }
+                UpdateNamespaces();
             }
         }
         
