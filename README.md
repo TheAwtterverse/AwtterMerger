@@ -3,6 +3,9 @@ https://dubstepdragon.github.io/AwtterMerger/
 
 https://dubstepdragon.github.io/AwtterMerger/index.json
 
+
+This testbed is for the purpose of testing out develoment of pivotal versions before they go out to the AwtterCommunity
+
 <!--
 # VPM Package Template
 
