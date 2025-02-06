@@ -1,7 +1,7 @@
 {
   "name": "dev.dubby.awttermerger",
   "displayName": "AwtterMerger",
-  "version": "4.0.62",
+  "version": "4.1.1",
   "description": "Use this Plugin To merge AwtterSpace DLC onto The Awtter.",
   "vrchatVersion": "2022.1.1",
   "vpmDependencies": {
@@ -13,7 +13,14 @@
     "url": "https://dubby.dev"
   },
   "legacyFolders": {
-    "Assets\\AwtterMerger": "",
-    "Assets\\AwboiMerger": ""
-  }
+    "Assets\\AwboiMerger\\__": "",
+    "Assets\\AwboiMerger\\Images": "",
+    "Assets\\AwboiMerger\\Editor": ""
+  },
+  "legacyFiles": {
+    "Assets\\AwboiMerger\\AWBOI_MERGER.dll": "",
+    "Assets\\AwboiMerger\\abmv.txt": "",
+    "Assets\\AwboiMerger\\LICENSE.txt": ""
+  },
+  "unity": "2022.3"
 }
