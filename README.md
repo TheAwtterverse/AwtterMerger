@@ -1,7 +1,7 @@
+[Main VCC listing](https://asdk.awtterspace.com/)
 
-https://dubstepdragon.github.io/AwtterMerger-TESTBED/
 
-https://dubstepdragon.github.io/AwtterMerger-TESTBED/index.json
+[AwtterMerger Independent Download](https://theawtterverse.github.io/AwtterMerger/) (will be a VCC link to a VCC that contains ONLY the merger)
 
 
 This testbed is for the purpose of testing out develoment of pivotal versions before they go out to the AwtterCommunity
