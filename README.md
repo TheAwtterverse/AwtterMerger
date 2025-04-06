@@ -1,8 +1,8 @@
-[Main VCC listing](https://asdk.awtterspace.com/)
+<!-- [Main VCC listing](https://asdk.awtterspace.com/) 
 
 
 [AwtterMerger Independent Download](https://theawtterverse.github.io/AwtterMerger/) (will be a VCC link to a VCC that contains ONLY the merger)
-
+-->
 [Awtter Merger TESTBED, Only for Alpha Testers](https://dubstepdragon.github.io/AwtterMerger-TESTBED/)
 
 
