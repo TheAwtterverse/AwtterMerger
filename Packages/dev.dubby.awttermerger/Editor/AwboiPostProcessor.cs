@@ -1,15 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using AWBOI.AMP.Core.Abstracts;
-using AWBOI.AMP.DLC;
-using UnityEditor;
+#if UNITY_EDITOR
 using AWBOI.AMP.Merger;
-using UnityEngine;
+using UnityEditor;
 
-namespace AWBOI.Editor
+namespace Editor
 {
 
     class AwboiPostProcessor : AssetPostprocessor
@@ -26,3 +19,4 @@ namespace AWBOI.Editor
 
 
 }
+#endif
