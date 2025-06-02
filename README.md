@@ -1,4 +1,6 @@
- [Main VCC listing](https://asdk.awtterspace.com/) 
+This tool isn't quite ready yet. It's mainly here for the next major update of the ASI (Formerly ASDK)
+
+<!-- [Main VCC listing](https://asdk.awtterspace.com/) 
 
 
 [AwtterMerger Independent Download](https://theawtterverse.github.io/AwtterMerger/) (will be a VCC link to a VCC that contains ONLY the merger)
@@ -6,7 +8,7 @@
 
 
 This testbed is for the purpose of testing out develoment of pivotal versions before they go out to the AwtterCommunity
-[Awtter Merger TESTBED, Only for Alpha Testers](https://dubstepdragon.github.io/AwtterMerger-TESTBED/)
+[Awtter Merger TESTBED, Only for Alpha Testers](https://dubstepdragon.github.io/AwtterMerger-TESTBED/) -->
 
 
 
