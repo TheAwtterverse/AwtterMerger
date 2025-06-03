@@ -1,15 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using AWBOI.AMP.Core.Abstracts;
-using AWBOI.AMP.DLC;
-using UnityEditor;
+#if UNITY_EDITOR
+using AWBOI.AMP.Core.DLC;
 using AWBOI.AMP.Merger;
-using UnityEngine;
+using AWBOI.AMP.Unmerger;
+using UnityEditor;
 
-namespace AWBOI.Editor
+namespace Editor
 {
 
     class AwboiPostProcessor : AssetPostprocessor
@@ -17,12 +12,12 @@ namespace AWBOI.Editor
         static void OnPostprocessAllAssets(string[] importedAssets, string[] deletedAssets, string[] movedAssets,
             string[] movedFromAssetPaths)
         {
-            if (AwboiMerger.Instance)
-            {
-                AwboiMerger.Instance.SetDlcRefresh();
-            }
+            if (AwboiMerger.Instance) AwboiMerger.Instance.SetDlcRefresh();
+            
+            if (BackupManagerWindow.Instance) BackupManagerWindow.Instance.ResetVars();
         }
     }
 
 
 }
+#endif

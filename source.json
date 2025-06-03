@@ -1,0 +1,19 @@
+{
+    "name":"AwtterMerger - TESTBED",
+    "id":"dev.dubby.awttermerger",
+    "url":"https://dubstepdragon.github.io/AwtterMerger-TESTBED/index.json",
+    "author":{
+        "email":"dubstep.dragon@dubby.dev",
+        "name":"Dubby",
+        "url":"https://dubby.dev"
+    },
+    "description":"Tool for managing content from AwtterSpace.",
+    "infoLink":{
+        "url":"https://github.com/dubstepdragon/AwtterMerger-TESTBED",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"https://github.com/TheAwtterverse/AwtterSDK/blob/master/Website/banner.png",
+    "githubRepos":[
+        "dubstepdragon/AwtterMerger-TESTBED"
+    ]
+}
