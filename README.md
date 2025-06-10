@@ -1,7 +1,7 @@
 [AwtterMerger BETA](https://dubstepdragon.github.io/AwtterMerger-TESTBED/)
 
 To install the beta: 
-1. Remove any references to the Awtter Merger in VCC
+1. Remove any references to the Awtter Merger in VCC (If there are any)
 2. Add the above link to VCC
 3. Add the AwtterMerger-TESTBED to your project and then open it!
 4. Report any and all bugs in the AwtterVerse Discord making sure to ping @DubstepDragon
