@@ -1,9 +1,19 @@
-This tool isn't quite ready yet. It's mainly here for the next major update of the ASI (Formerly ASDK)
+[AwtterMerger BETA](https://dubstepdragon.github.io/AwtterMerger-TESTBED/)
+
+To install the beta: 
+1. Remove any references to the Awtter Merger in VCC
+2. Add the above link to VCC
+3. Add the AwtterMerger-TESTBED to your project and then open it!
+4. Report any and all bugs in the AwtterVerse Discord making sure to ping @DubstepDragon
+
+
+
+<!--This tool isn't quite ready yet. It's mainly here for the next major update of the ASI (Formerly ASDK) -->
 
 <!-- [Main VCC listing](https://asdk.awtterspace.com/) 
 
 
-[AwtterMerger Independent Download](https://theawtterverse.github.io/AwtterMerger/) (will be a VCC link to a VCC that contains ONLY the merger)
+
 
 
 
