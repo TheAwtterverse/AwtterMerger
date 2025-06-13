@@ -1,7 +1,7 @@
 {
-    "name":"AwtterMerger - TESTBED",
+    "name":"AwtterMerger",
     "id":"dev.dubby.awttermerger",
-    "url":"https://dubstepdragon.github.io/AwtterMerger-TESTBED/index.json",
+    "url":"https://TheAwtterverse.github.io/AwtterMerger/index.json",
     "author":{
         "email":"dubstep.dragon@dubby.dev",
         "name":"Dubby",
@@ -9,11 +9,11 @@
     },
     "description":"Tool for managing content from AwtterSpace.",
     "infoLink":{
-        "url":"https://github.com/dubstepdragon/AwtterMerger-TESTBED",
+        "url":"https://github.com/TheAwtterverse/AwtterMerger",
         "text":"View on GitHub"
     },
     "bannerUrl":"https://github.com/TheAwtterverse/AwtterSDK/blob/master/Website/banner.png",
     "githubRepos":[
-        "dubstepdragon/AwtterMerger-TESTBED"
+        "TheAwtterverse/AwtterMerger"
     ]
 }
