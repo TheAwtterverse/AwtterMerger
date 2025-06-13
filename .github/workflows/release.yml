@@ -2,12 +2,15 @@ name: Build Release
 
 on: 
   workflow_dispatch:
+  push:
+    branches: master
+    paths: source.json
 
 jobs:
 
   # Validate Repository Configuration
   config:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     outputs:
       config_package: ${{ steps.config_package.outputs.configPackage }}
     steps:
@@ -26,7 +29,7 @@ jobs:
   # If the repository is not configured properly, this job will be skipped
   build:
     needs: config
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     env:
@@ -72,14 +75,16 @@ jobs:
       # Make a release tag of the version from the package.json file 
       - name: Create Tag
         id: tag_version
-        uses: rickstaa/action-create-tag@main
+        uses: rickstaa/action-create-tag@88dbf7ff6fe2405f8e8f6c6fdfd78829bc631f83
         with:
           tag: "${{ env.version }}"
       
       # Publish the Release to GitHub
       - name: Make Release
-        uses: softprops/action-gh-release@master
+        uses: softprops/action-gh-release@de2c0eb89ae2a093876385947365aca7b0e5f844
         with:
+          make_latest: ${{ !contains( env.version, 'beta') }}
+          prerelease: ${{ contains( env.version, 'beta') }}
           files: |
             ${{ env.zipFile }}
             ${{ env.unityPackage }}
