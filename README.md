@@ -1,4 +1,4 @@
-[AwtterMerger BETA](https://dubstepdragon.github.io/AwtterMerger-TESTBED/)
+<!-- [AwtterMerger BETA](https://dubstepdragon.github.io/AwtterMerger-TESTBED/) ->>
 
 To install the beta: 
 1. Remove any references to the Awtter Merger in VCC (If there are any)
@@ -10,10 +10,10 @@ To install the beta:
 
 <!--This tool isn't quite ready yet. It's mainly here for the next major update of the ASI (Formerly ASDK) -->
 
-<!-- [Main VCC listing](https://asdk.awtterspace.com/) 
+[Main VCC listing](https://asdk.awtterspace.com/) 
 
 
-
+<!-- 
 
 
 
