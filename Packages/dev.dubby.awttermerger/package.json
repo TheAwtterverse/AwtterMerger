@@ -1,7 +1,7 @@
 {
   "name": "dev.dubby.awttermerger",
   "displayName": "AwtterMerger",
-  "version": "4.2.8-beta.2",
+  "version": "4.2.8-beta.3",
   "description": "Use this Plugin To merge AwtterSpace DLC onto The Awtter.",
   "vrchatVersion": "2022.1.1",
   "vpmDependencies": {
