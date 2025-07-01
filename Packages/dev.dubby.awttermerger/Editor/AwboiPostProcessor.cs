@@ -27,11 +27,9 @@ namespace Editor
 
         static void ResetClasses<T>(T window) where T : BaseMerger
         {
-            if (window && EditorWindow.HasOpenInstances<T>())
-            {
-                window.RefreshVars();
-                window.RefreshAllUI();
-            }
+            if (window == null) return;
+            window.RefreshVars();
+            window.RefreshAllUI();
         }
         
     }

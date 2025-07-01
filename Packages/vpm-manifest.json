@@ -5,6 +5,9 @@
     },
     "com.vrchat.avatars": {
       "version": "3.8.1"
+    },
+    "com.killers0992.awtter-space-installer": {
+      "version": "1.2.36"
     }
   },
   "locked": {
@@ -17,6 +20,10 @@
       "dependencies": {
         "com.vrchat.base": "3.8.1"
       }
+    },
+    "com.killers0992.awtter-space-installer": {
+      "version": "1.2.36",
+      "dependencies": {}
     }
   }
 }
