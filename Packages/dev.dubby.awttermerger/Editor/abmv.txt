@@ -1,3 +1,4 @@
 ImagePath = Images
 BackupPath = Assets/AwtterMerger/AwboiBackups
 DLCPath = Assets
+SubMenuDLCName = DLC
